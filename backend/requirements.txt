@@ -1,0 +1,10 @@
+asgiref
+django
+djangorestframework
+django-cors-headers  #to fix the cross origin request issue
+djangorestframework-simplejwt
+PyJWT
+pytz
+sqlparse
+psycopg2-binary
+python-dotenv
